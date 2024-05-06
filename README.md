@@ -17,4 +17,4 @@ The motivation behind this project is to analyse the trend of emission rate from
 5) Data Visualization: After running querries and transforming data on Power BI created an interactive dashboard to highlight the key points. 
 
 
-Dashboard Link:
+Dashboard Link: https://app.powerbi.com/groups/me/reports/39d630dc-54cb-4d8d-9030-60407d170d22/ReportSection?experience=power-bi
