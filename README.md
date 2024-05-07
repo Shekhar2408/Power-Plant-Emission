@@ -1,3 +1,7 @@
+**Power Plant Emission Analysis**
+
+**Dashboard Link**: https://app.powerbi.com/groups/me/reports/39d630dc-54cb-4d8d-9030-60407d170d22/ReportSection?experience=power-bi
+
 **Overview**
 This project aims to conduct an in-depth analysis of the emissions from 20 selected thermal power plants in India. The focus is on understanding the levels of pollutants released by these plants and their impact on the environment and public health.
 
@@ -17,4 +21,4 @@ The motivation behind this project is to analyse the trend of emission rate from
 5) Data Visualization: After running querries and transforming data on Power BI created an interactive dashboard to highlight the key points. 
 
 
-Dashboard Link: https://app.powerbi.com/groups/me/reports/39d630dc-54cb-4d8d-9030-60407d170d22/ReportSection?experience=power-bi
+
