@@ -1,24 +1,29 @@
-**Power Plant Emission Analysis**
+## Power Plant Emission Analysis
+🔗 Interactive Dashboard: View on Power BI
 
-**Dashboard Link**: https://app.powerbi.com/groups/me/reports/39d630dc-54cb-4d8d-9030-60407d170d22/ReportSection?experience=power-bi
+## Overview
+This project delivers an in-depth analysis of emissions from 20 selected thermal power plants in India, focusing on major pollutants such as Sulfur Dioxide (SO₂), Nitrogen Oxides (NOₓ), and Particulate Matter (PM).
+The goal is to uncover trends, patterns, and variations in emission rates — providing actionable insights into their environmental and public health impacts.
 
-**Overview**
-This project aims to conduct an in-depth analysis of the emissions from 20 selected thermal power plants in India. The focus is on understanding the levels of pollutants released by these plants and their impact on the environment and public health.
+## Motivation
+India’s growing energy demand has intensified reliance on thermal power generation, raising concerns about its environmental footprint.
+By analyzing emission trends, this project aims to:
+Highlight the scale of the problem.
+Identify high-emission plants.
+Support informed decision-making for sustainable energy management.
 
-**Motivation**
-The motivation behind this project is to analyse the trend of emission rate from thermal power generation in India. With the country's increasing energy demand, it's crucial to assess the environmental footprint of existing power plants and identify areas for improvement.
+## Objectives
+Collect Emission Data – Compile accurate, plant-wise pollutant emission data from verified sources.
+Analyze Trends – Study year-over-year emission changes for each plant.
+Compare Plants – Assess emission differences and explore possible influencing factors.
+Methodology
+Data Collection – Sourced from public databases, government reports, and research publications.
+Data Analysis – Applied statistical methods to detect patterns and anomalies.
+Comparative Analysis – Evaluated emission levels across plants to spot leaders and laggards.
+Data Creation (MySQL) – Built the database, wrote SQL queries, and extracted key insights.
+Data Visualization (Power BI) – Designed an interactive dashboard to present findings in a clear, engaging format.
 
-**Objectives**
-1) Collect emission data: Gather comprehensive data on the emissions of key pollutants (such as sulfur dioxide, nitrogen oxides, particulate matter, etc.) from the selected thermal power plants.
-2) Analyze emission trends: Identify trends and patterns in emission levels over time for each power plant.
-3) Compare emissions: Compare the emission levels of different power plants to assess variations and potential factors influencing them.
-
-**Methodology**
-1) Data collection: Utilize publicly available data sources, government reports, and research papers to gather emission data for the selected power plants.
-2) Data analysis: Employ statistical analysis and data visualization techniques to explore emission trends and patterns.
-3) Comparative analysis: Conduct comparative analysis to identify differences in emission levels among the power plants.
-4) Data Creation: Wrote MySql codes to create the database and run some querries to get key insights.
-5) Data Visualization: After running querries and transforming data on Power BI created an interactive dashboard to highlight the key points. 
-
-
-
+## Key Features of the Dashboard
+📊 Plant-wise Emission Trends – See how emissions have evolved over time.
+📌 Comparative Insights – Identify plants with the highest and lowest emission levels.
+🌍 Environmental Impact View – Understand potential effects on air quality and health.
