@@ -1,5 +1,5 @@
 ## Power Plant Emission Analysis
-🔗 Interactive Dashboard: View on Power BI
+🔗 Interactive Dashboard: View on Power BI -- https://app.powerbi.com/groups/32ceb88c-466b-4f10-8125-abdb2877f749/reports/39d630dc-54cb-4d8d-9030-60407d170d22/ReportSection?experience=power-bi
 
 ## Overview
 This project delivers an in-depth analysis of emissions from 20 selected thermal power plants in India, focusing on major pollutants such as Sulfur Dioxide (SO₂), Nitrogen Oxides (NOₓ), and Particulate Matter (PM).
